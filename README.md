@@ -9,15 +9,15 @@ Some of the goals of this sample:
 - Automatically generate Inventory for Ansible from Terraform output.
 - Jenkins executes Ansible playbook to install Docker on newly created EC2.
 
-(./images/01-create-s3-bucket.jpg)
+![01-create-s3-bucket](./images/01-create-s3-bucket.jpg)
 
-(./images/02-github-ssh-key.jpg)
+![02-github-ssh-key](./images/02-github-ssh-key.jpg)
 
-(./images/03-ec2-ssh-key.jpg)
+![03-ec2-ssh-key](./images/03-ec2-ssh-key.jpg)
 
-(./images/04-ansible-plugin.jpg)
+![04-ansible-plugin](./images/04-ansible-plugin.jpg)
 
-(./images/05-create-jenkins-pipeline.jpg)
+![05-create-jenkins-pipeline](./images/05-create-jenkins-pipeline.jpg)
 
 ![06-pipeline-run-1](./images/06-pipeline-run-1.jpg)
 
